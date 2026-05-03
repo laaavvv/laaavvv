@@ -29,6 +29,7 @@ Memory management and debugging
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 </p>
 
